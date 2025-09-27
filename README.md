@@ -1,5 +1,3 @@
-Of course\! Here is the guide converted into a clean and readable Markdown format.
-
 # End-to-End Guide: Local LLM Server & Unity/XREAL App
 
 A quick guide to run the local LLM server and dashboard, and build/run the Unity app on XREAL/Android.
