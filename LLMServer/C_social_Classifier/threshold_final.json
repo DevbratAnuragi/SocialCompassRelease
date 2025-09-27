@@ -1,0 +1,5 @@
+{
+  "policy": "precision_at_least",
+  "p_target": 0.75,
+  "threshold": 0.7945372462272644
+}

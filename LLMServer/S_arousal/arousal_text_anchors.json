@@ -1,0 +1,27 @@
+{
+  "dim": 1024,
+  "prompts": {
+    "high": [
+      "a person feeling stressed and agitated",
+      "a person under pressure with elevated arousal",
+      "a tense, anxious, high-arousal state",
+      "rapid heartbeat, jittery, stressed",
+      "physiologically activated and restless",
+      "breathing fast, body on alert",
+      "high internal activation",
+      "hypervigilant and keyed up",
+      "energized, highly activated body state"
+    ],
+    "low": [
+      "a person feeling calm and relaxed",
+      "a peaceful, low-arousal state",
+      "steady breathing, tranquil, at ease",
+      "relaxed body and mind",
+      "physiologically settled and restful",
+      "low internal activation",
+      "loose muscles, unhurried body",
+      "quiet and unaroused",
+      "calm body, steady breathing"
+    ]
+  }
+}

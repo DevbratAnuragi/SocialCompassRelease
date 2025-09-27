@@ -1,0 +1,8 @@
+{
+  "policy": "per_hour_rate_in_social",
+  "target_min": 2.0,
+  "target_max": 5.0,
+  "threshold": -0.00864173285663128,
+  "achieved_dev_mean_rate": 3.5119257563118516,
+  "note": "rate computed as avg triggers per social hour (by windows); ts unit auto-detected"
+}
