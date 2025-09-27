@@ -61,6 +61,7 @@ public string serverWs = "ws://192.168.1.100:8765";
 ```
 
 ### 4\) Run the backend + dashboard
+<img width="3763" height="2060" alt="image" src="https://github.com/user-attachments/assets/de771c0e-46a5-4f3c-b0eb-9c339f062b4a" />
 
 Open two separate terminals in the `LLMserver/` directory.
 
